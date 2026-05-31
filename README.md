@@ -1,10 +1,21 @@
 # Privacy-Aware FL Recommendation System
 
-## Overview
 
+## Dataset
+
+The datasets used in this study can be downloaded from:
+
+- MovieLens-1M:
+https://grouplens.org/datasets/movielens/1m/
+
+- Amazon Beauty:
+https://nijianmo.github.io/amazon/index.html
+
+Mirror Download:
+https://drive.google.com/xxxxx
 A privacy-aware personalized recommendation framework
 for educational resource recommendation.
-
+## Overview
 ## Main Contributions
 
 1. Federated recommendation architecture
