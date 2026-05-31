@@ -1,0 +1,5 @@
+file,dataset,epsilon,noise_std,final_auc
+outputs/tables/dp_fedavg_movielens_eps0.1.csv,movielens,0.1,0.04,0.7064369125508425
+outputs/tables/dp_fedavg_movielens_eps0.5.csv,movielens,0.5,0.015,0.7094604064947333
+outputs/tables/dp_fedavg_movielens_eps1.0.csv,movielens,1.0,0.006,0.7101120938511374
+outputs/tables/dp_fedavg_movielens_eps2.0.csv,movielens,2.0,0.002,0.7101234245884478

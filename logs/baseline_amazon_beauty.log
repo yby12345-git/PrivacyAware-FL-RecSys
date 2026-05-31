@@ -1,0 +1,9 @@
+Device: cpu
+Dataset: amazon_beauty
+Users: 22363 Items: 12101
+Epoch 1: loss=0.5821, AUC=0.5131
+Epoch 2: loss=0.5269, AUC=0.5265
+Epoch 3: loss=0.5210, AUC=0.5384
+Epoch 4: loss=0.5204, AUC=0.5478
+Epoch 5: loss=0.5126, AUC=0.5566
+Saved: outputs/tables/baseline_amazon_beauty.csv

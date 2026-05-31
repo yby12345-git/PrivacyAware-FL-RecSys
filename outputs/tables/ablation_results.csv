@@ -1,0 +1,4 @@
+Variant,AUC
+Full Model,0.7101
+w/o Differential Privacy,0.72
+w/o IID Distribution,0.5471

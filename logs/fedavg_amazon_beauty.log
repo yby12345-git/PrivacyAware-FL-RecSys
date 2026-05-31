@@ -1,0 +1,13 @@
+Device: cpu
+Dataset: amazon_beauty
+Round 1: loss=0.7057, AUC=0.4998
+Round 2: loss=0.6017, AUC=0.5030
+Round 3: loss=0.5405, AUC=0.5067
+Round 4: loss=0.5315, AUC=0.5088
+Round 5: loss=0.5306, AUC=0.5097
+Round 6: loss=0.5299, AUC=0.5109
+Round 7: loss=0.5286, AUC=0.5121
+Round 8: loss=0.5287, AUC=0.5138
+Round 9: loss=0.5279, AUC=0.5148
+Round 10: loss=0.5273, AUC=0.5155
+Saved: outputs/tables/fedavg_amazon_beauty.csv

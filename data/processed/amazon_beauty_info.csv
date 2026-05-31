@@ -1,0 +1,2 @@
+dataset,num_users,num_items,num_interactions,train_size,test_size,positive_rate
+amazon_beauty,22363,12101,198502,176139,22363,0.7771810863366616

@@ -1,0 +1,2 @@
+dataset,num_users,num_items,num_interactions,train_size,test_size,positive_rate
+movielens,6040,3706,1000209,994169,6040,0.5751607913945985

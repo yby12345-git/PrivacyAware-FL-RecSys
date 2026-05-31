@@ -1,0 +1,9 @@
+Device: cpu
+Dataset: movielens
+Users: 6040 Items: 3706
+Epoch 1: loss=0.6470, AUC=0.7170
+Epoch 2: loss=0.5796, AUC=0.7581
+Epoch 3: loss=0.5550, AUC=0.7725
+Epoch 4: loss=0.5448, AUC=0.7794
+Epoch 5: loss=0.5394, AUC=0.7816
+Saved: outputs/tables/baseline_movielens.csv

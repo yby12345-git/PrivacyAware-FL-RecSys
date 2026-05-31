@@ -1,0 +1,8 @@
+
+===== movielens =====
+{'dataset': 'movielens', 'num_users': 6040, 'num_items': 3706, 'num_interactions': 1000209, 'train_size': 994169, 'test_size': 6040, 'positive_rate': 0.5751607913945985}
+
+===== amazon_beauty =====
+{'dataset': 'amazon_beauty', 'num_users': 22363, 'num_items': 12101, 'num_interactions': 198502, 'train_size': 176139, 'test_size': 22363, 'positive_rate': 0.7771810863366616}
+
+DONE: preprocessing finished.

@@ -1,0 +1,14 @@
+Device: cpu
+Dataset: movielens
+DP noise_std: 0.015 epsilon: 0.5
+Round 1: loss=0.6743, AUC=0.5455
+Round 2: loss=0.6649, AUC=0.5787
+Round 3: loss=0.6568, AUC=0.6089
+Round 4: loss=0.6480, AUC=0.6334
+Round 5: loss=0.6400, AUC=0.6542
+Round 6: loss=0.6325, AUC=0.6711
+Round 7: loss=0.6255, AUC=0.6842
+Round 8: loss=0.6188, AUC=0.6942
+Round 9: loss=0.6132, AUC=0.7027
+Round 10: loss=0.6081, AUC=0.7095
+Saved: outputs/tables/dp_fedavg_movielens_eps0.5.csv

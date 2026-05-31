@@ -1,0 +1,5 @@
+Method,Setting,AUC
+Centralized MLP,Centralized,0.7816
+FedAvg,IID,0.72
+FedAvg,non-IID,0.5471
+DP-FedAvg,IID + DP,0.7101

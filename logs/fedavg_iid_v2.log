@@ -1,0 +1,15 @@
+Device: cpu
+Dataset: movielens
+Round 1: loss=0.6745, AUC=0.5456
+Round 2: loss=0.6649, AUC=0.5777
+Round 3: loss=0.6566, AUC=0.6084
+Round 4: loss=0.6480, AUC=0.6344
+Round 5: loss=0.6397, AUC=0.6553
+Round 6: loss=0.6320, AUC=0.6715
+Round 7: loss=0.6248, AUC=0.6846
+Round 8: loss=0.6183, AUC=0.6953
+Round 9: loss=0.6122, AUC=0.7039
+Round 10: loss=0.6071, AUC=0.7098
+Round 11: loss=0.6022, AUC=0.7150
+Round 12: loss=0.5983, AUC=0.7200
+Saved: outputs/tables/fedavg_movielens.csv
